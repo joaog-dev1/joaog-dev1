@@ -7,7 +7,7 @@
 
 Construindo minha jornada no desenvolvimento de software, com foco no ecossistema Java, backend e criação de aplicações.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/joaog-dev1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/joaoguilhermedev1/)
 
 </div>
