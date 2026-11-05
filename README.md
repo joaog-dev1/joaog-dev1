@@ -98,11 +98,11 @@ Add your real projects here -->
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/joaoguilhermedev1/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:jguilhermeefialho2@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
